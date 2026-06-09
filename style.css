@@ -1,0 +1,14 @@
+body {
+    background-color: #5C6C5E;
+}
+.container {
+    max-width:1440px;
+    width:100%;
+    margin:0 auto;
+    padding:0 100px;
+}
+.card {
+    background-image: url("./images/Rectangle\ 1.png");
+    height: 500px;
+    color: white;
+}
