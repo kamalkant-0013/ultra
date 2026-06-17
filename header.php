@@ -15,7 +15,7 @@
                 <div class="head-row-2">
                     <ul>
                         <li><a href="#">Home</a></li>
-                        <li><a href="#">Work With Me</a></li>
+                        <li><a href="http://localhost/projects/leaving%20in%20progress/workwithme.php">Work With Me</a></li>
                         <li><a href="#">Breaking the Power Struggle</a></li>
                         <li><a href="#">Free Quiz</a></li>
                         <li><a href="#">About</a></li>

@@ -20,6 +20,7 @@
         </div>
     </section>
     <section class="lost">
+        <img src="images/LIP IMG (2).png" alt="">
         <div class="container">
             <div class="lost-column">
                 <h2>Why Parenting Feels Like a Constant Power Struggle</h2>
@@ -36,6 +37,7 @@
         </div>
     </section>
     <section class="found">
+        <img src="images/LIP IMG.png" alt="">
         <div class="container">
             <div class="found-column">
                 <h2>You Don’t Need to Be a Perfect Parent to Create Change</h2>
@@ -47,6 +49,7 @@
         </div>
     </section>
     <section class="alive">
+        <img src="images/LIP IMG (1).png" alt="">
         <div class="container">
             <div class="lost-column">
                  <h2>What Changes When You Stop Reacting on Autopilot</h2>
